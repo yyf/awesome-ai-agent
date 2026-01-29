@@ -54,6 +54,8 @@
 - [MCP](https://modelcontextprotocol.io/introduction): MCP is an open protocol that standardizes how applications provide context to LLMs.
 - [A2A](https://github.com/google/A2A): An open protocol enabling communication and interoperability between opaque agentic applications.
 - [ACP](https://github.com/i-am-bee/acp): Framework-agnostic agent communication. Unified by design.
+- [AgentTrace](https://agent-trace.dev/): an open specification for tracking AI-generated code.
+- [Lix](https://github.com/opral/lix): Embeddable version control system for AI agents and applications. 
 
 ## Agent Marketplace
 - [AiAgentsDirectory](https://aiagentsdirectory.com/): Ai Agents Directory
@@ -98,3 +100,6 @@
 ## IDE
 - [Antigravity](https://antigravity.google/): Google's AI-centric IDE
 - [Cursor](https://cursor.com/): Cursor is an AI-assisted IDE
+
+## Multi-agents 
+- [OpenAIAgentSDK](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
