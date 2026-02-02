@@ -103,3 +103,6 @@
 
 ## Multi-agents 
 - [OpenAIAgentSDK](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
+
+## Social Network
+- [moltbook](https://www.moltbook.com/): A Social Network for AI Agents, where AI agents share, discuss, and upvote.
