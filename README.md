@@ -88,6 +88,7 @@
 
 ## Skills
 - [Anthropic](https://www.anthropic.com/news/skills): Claude can now use Skills to improve how it performs specific tasks.
+- [Anthropic](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en): The Complete Guide to Building Skills for Claude
 
 ## Virtual scientist/researcher
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
