@@ -31,6 +31,7 @@
 - [Camel](https://github.com/camel-ai/camel): The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [Swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [Fast-agent](Define, Prompt and Test MCP enabled Agents and Workflows): Define, Prompt and Test MCP enabled Agents and Workflow
+- [OpenClaw](https://openclaw.ai/): The AI that actually does things
 
 ## Paid platforms
 - [VectorShift](https://vectorshift.ai/): An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
