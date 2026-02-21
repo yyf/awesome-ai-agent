@@ -108,3 +108,6 @@
 
 ## Social Network
 - [moltbook](https://www.moltbook.com/): A Social Network for AI Agents, where AI agents share, discuss, and upvote.
+
+## Agent Orchestration
+- [agent-squad](https://github.com/awslabs/agent-squad): Flexible and powerful framework for managing multiple AI agents and handling complex conversations
