@@ -51,6 +51,9 @@
 - [LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey): A Survey on LLM-based Autonomous Agents.
 - [Multi-LLM-Agents-Survey](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers): Large Language Model based Multi-Agents: A Survey of Progress and Challenges
 
+## Standards
+- [AIUC](https://www.aiuc-1.com/): The world's first AI agent standard
+
 ## Protocols
 - [MCP](https://modelcontextprotocol.io/introduction): MCP is an open protocol that standardizes how applications provide context to LLMs.
 - [A2A](https://github.com/google/A2A): An open protocol enabling communication and interoperability between opaque agentic applications.
