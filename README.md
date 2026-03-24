@@ -33,6 +33,7 @@
 - [Fast-agent](Define, Prompt and Test MCP enabled Agents and Workflows): Define, Prompt and Test MCP enabled Agents and Workflow
 - [OpenClaw](https://openclaw.ai/): The AI that actually does things
 - [AgentScope](https://github.com/agentscope-ai): AgentScope is a production-ready, easy-to-use agent framework with essential abstractions that work with rising model capability and built-in support for finetuning.
+- [StrandsAgent](https://github.com/strands-agents): A model-driven, open source SDK for creating AI agents
 
 ## Paid platforms
 - [VectorShift](https://vectorshift.ai/): An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
