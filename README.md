@@ -34,6 +34,7 @@
 - [OpenClaw](https://openclaw.ai/): The AI that actually does things
 - [AgentScope](https://github.com/agentscope-ai): AgentScope is a production-ready, easy-to-use agent framework with essential abstractions that work with rising model capability and built-in support for finetuning.
 - [StrandsAgent](https://github.com/strands-agents): A model-driven, open source SDK for creating AI agents
+- [Vellum](https://github.com/vellum-ai/vellum-python-sdks): the end-to-end development platform for building production-grade AI applications
 
 ## Paid platforms
 - [VectorShift](https://vectorshift.ai/): An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
@@ -107,6 +108,7 @@
 ## IDE
 - [Antigravity](https://antigravity.google/): Google's AI-centric IDE
 - [Cursor](https://cursor.com/): Cursor is an AI-assisted IDE
+- [Rivet](https://github.com/Ironclad/rivet): The open-source visual AI programming environment and TypeScript library
 
 ## Multi-agents 
 - [OpenAIAgentSDK](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
