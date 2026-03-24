@@ -122,3 +122,6 @@
 ## Computing
 - [CUDA-agent](https://cuda-agent.github.io/): Large-Scale Agentic RL for High-Performance CUDA Kernel Generation
 
+## Coding Agent 
+- [ACI](https://swe-agent.com/0.7/background/aci/): "... the interface LM agents use to interact with computers... "
+
