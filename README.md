@@ -114,6 +114,7 @@
 ## Multi-agents 
 - [OpenAIAgentSDK](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
 - [GoClaw](https://github.com/nextlevelbuilder/goclaw): GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency
+- [Multica](https://github.com/multica-ai/multica): The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills
 
 ## Social Network
 - [moltbook](https://www.moltbook.com/): A Social Network for AI Agents, where AI agents share, discuss, and upvote.
