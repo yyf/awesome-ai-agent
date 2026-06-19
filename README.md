@@ -93,3 +93,7 @@
 - [virtual-lab](https://github.com/zou-group/virtual-lab): A virtual lab of LLM agents for science research
 - [local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
 - [Virtual-Scientists](https://github.com/open-sciencelab/Virtual-Scientists): Multi-Agent System for Science of Science
+
+## Agentic Loop
+- [Anthropic](https://code.claude.com/docs/en/agent-sdk/agent-loop): Understand the message lifecycle, tool execution, context window, and architecture that power your SDK agents.
+- [AWS](https://github.com/aws-samples/sample-agentic-design-patterns/tree/main/patterns/03-agentic-loop): The Agentic Loop is the control flow that turns a single model call into a multi-turn agent. 
