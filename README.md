@@ -31,6 +31,11 @@
 - [Camel](https://github.com/camel-ai/camel): The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [Swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [Fast-agent](Define, Prompt and Test MCP enabled Agents and Workflows): Define, Prompt and Test MCP enabled Agents and Workflow
+- [OpenClaw](https://openclaw.ai/): The AI that actually does things
+- [AgentScope](https://github.com/agentscope-ai): AgentScope is a production-ready, easy-to-use agent framework with essential abstractions that work with rising model capability and built-in support for finetuning.
+- [StrandsAgent](https://github.com/strands-agents): A model-driven, open source SDK for creating AI agents
+- [Vellum](https://github.com/vellum-ai/vellum-python-sdks): the end-to-end development platform for building production-grade AI applications
+- [DeerFlow](https://github.com/bytedance/deer-flow): An open-source long-horizon SuperAgent harness that researches, codes, and creates
 
 ## Paid platforms
 - [VectorShift](https://vectorshift.ai/): An integrated framework of no-code, low-code, and out of the box generative AI solutions to build AI search engines, assistants, chatbots, and automations. 
@@ -50,10 +55,15 @@
 - [LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey): A Survey on LLM-based Autonomous Agents.
 - [Multi-LLM-Agents-Survey](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers): Large Language Model based Multi-Agents: A Survey of Progress and Challenges
 
+## Standards
+- [AIUC](https://www.aiuc-1.com/): The world's first AI agent standard
+
 ## Protocols
 - [MCP](https://modelcontextprotocol.io/introduction): MCP is an open protocol that standardizes how applications provide context to LLMs.
 - [A2A](https://github.com/google/A2A): An open protocol enabling communication and interoperability between opaque agentic applications.
 - [ACP](https://github.com/i-am-bee/acp): Framework-agnostic agent communication. Unified by design.
+- [AgentTrace](https://agent-trace.dev/): an open specification for tracking AI-generated code.
+- [Lix](https://github.com/opral/lix): Embeddable version control system for AI agents and applications. 
 
 ## Agent Marketplace
 - [AiAgentsDirectory](https://aiagentsdirectory.com/): Ai Agents Directory
@@ -86,6 +96,7 @@
 
 ## Skills
 - [Anthropic](https://www.anthropic.com/news/skills): Claude can now use Skills to improve how it performs specific tasks.
+- [Anthropic](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en): The Complete Guide to Building Skills for Claude
 
 ## Virtual scientist/researcher
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
@@ -93,7 +104,30 @@
 - [virtual-lab](https://github.com/zou-group/virtual-lab): A virtual lab of LLM agents for science research
 - [local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher): Fully local web research and report writing assistant
 - [Virtual-Scientists](https://github.com/open-sciencelab/Virtual-Scientists): Multi-Agent System for Science of Science
+- [Kosmos](https://github.com/EdisonScientific/kosmos-figures): Kosmos technical report figures, validation code, and reproducible analyses
 
 ## Agentic Loop
 - [Anthropic](https://code.claude.com/docs/en/agent-sdk/agent-loop): Understand the message lifecycle, tool execution, context window, and architecture that power your SDK agents.
 - [AWS](https://github.com/aws-samples/sample-agentic-design-patterns/tree/main/patterns/03-agentic-loop): The Agentic Loop is the control flow that turns a single model call into a multi-turn agent. 
+
+## IDE
+- [Antigravity](https://antigravity.google/): Google's AI-centric IDE
+- [Cursor](https://cursor.com/): Cursor is an AI-assisted IDE
+- [Rivet](https://github.com/Ironclad/rivet): The open-source visual AI programming environment and TypeScript library
+
+## Multi-agents 
+- [OpenAIAgentSDK](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
+- [GoClaw](https://github.com/nextlevelbuilder/goclaw): GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency
+- [Multica](https://github.com/multica-ai/multica): The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills
+
+## Social Network
+- [moltbook](https://www.moltbook.com/): A Social Network for AI Agents, where AI agents share, discuss, and upvote.
+
+## Agent Orchestration
+- [agent-squad](https://github.com/awslabs/agent-squad): Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+
+## Computing
+- [CUDA-agent](https://cuda-agent.github.io/): Large-Scale Agentic RL for High-Performance CUDA Kernel Generation
+
+## Coding Agent 
+- [ACI](https://swe-agent.com/0.7/background/aci/): "... the interface LM agents use to interact with computers... "
