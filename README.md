@@ -131,3 +131,6 @@
 
 ## Coding Agent 
 - [ACI](https://swe-agent.com/0.7/background/aci/): "... the interface LM agents use to interact with computers... "
+
+## Agent use cases
+- [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): a curated collection of AI agent use cases across various industries.
